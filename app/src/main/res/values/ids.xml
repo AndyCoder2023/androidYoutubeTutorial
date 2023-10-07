@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtTxtEmail" type="id" />
+    <item name="edtTxtFirstName" type="id" />
+    <item name="edtTxtLastName" type="id" />
+</resources>
